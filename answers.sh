@@ -10,7 +10,7 @@ mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
 rm Memes/SpongeBob/money.jpeg
 
 # Task 3
-mv Memes/"Star Wars"/fafsa.jpg Memes/Spongebob
+mv Memes/"Star Wars"/fafsa.jpg Memes/SpongeBob/fafsa.jpg
 
 # Task 4
 rm -r Homework/CS191
