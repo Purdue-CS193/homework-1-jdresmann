@@ -10,7 +10,7 @@ mv Homework/MA165/HW2.txt Homework/MA165/HW1.txt
 rm Memes/SpongeBob/money.jpeg
 
 # Task 3
-mv Memes/"Star Wars"/fafsa.jpg Memes/Spongebob/fafsa.jpg
+mv Memes/"Star Wars"/fafsa.jpg Memes/Spongebob
 
 # Task 4
 rm -r Homework/CS191
@@ -34,7 +34,7 @@ mv Programs/*.py Programs/"Python 3"
 touch Homework/POL141/Essay.txt
 
 # Task 11
-..
+ls ..
 
 # Task 12
 : '
